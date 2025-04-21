@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Configuração local
+.python-version
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Dados salvos ou gerados durante treino/simulações
+*.h5
+# *.txt
+# *.csv
+*.npy
+
+# Diretórios de modelos salvos
+ia_tuning/modelos/
+
+# Diretórios ocultos do sistema
+.DS_Store
+
+# Arquivos de ambiente virtual (caso não esteja usando pyenv)
+venv/
+env/
