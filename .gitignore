@@ -24,6 +24,7 @@ __pycache__/
 
 # Diretórios de modelos salvos
 ia_tuning/modelos/
+ia_tuning/
 
 # Diretórios ocultos do sistema
 .DS_Store
