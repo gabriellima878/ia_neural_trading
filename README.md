@@ -89,7 +89,9 @@ jupyter notebook nn3.ipynb
 
 ## 📈 Exemplo de Resultado (Rede Neural vs. Buy & Hold)
 
-<img src="https://via.placeholder.com/600x300.png?text=Curva+de+Capital+IA+vs+Buy+%26+Hold" alt="Curva de Capital" width="600"/>
+📈 Exemplo de Resultado (Rede Neural vs. Buy & Hold)
+
+<img src="curva_capital_vs_buyhold.png" alt="Curva de Capital" width="600"/>
 
 ---
 
