@@ -72,7 +72,7 @@ Treinar e otimizar uma rede neural densa (MLP) capaz de prever se o preço de um
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/gabriellima878/ia_neural_trading.git
 cd seu-repositorio
 
 # Instale as dependências
